@@ -1,5 +1,6 @@
 [
     {
+	"remote": "motosung",
         "repository": "android_device_samsung_slsi_sepolicy",
         "target_path": "device/samsung_slsi/sepolicy"
     },
@@ -28,6 +29,7 @@
         "target_path": "hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib"
     },
     {
+        "remote": "motosung",
         "repository": "android_kernel_motorola_exynos9610",
         "target_path": "kernel/motorola/exynos9610"
     }
